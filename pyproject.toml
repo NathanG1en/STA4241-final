@@ -1,0 +1,10 @@
+[project]
+name = "sta4241-final"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "kagglehub>=0.3.13",
+    "notebook>=7.5.0",
+    "pandas>=2.3.3",
+]
