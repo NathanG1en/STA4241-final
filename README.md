@@ -48,7 +48,7 @@ For STA4241, this repo is meant to run us through two clustering techniques, Hie
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NathanG1en/STA4241-final.git
 cd clustering-explorer
 ```
 
